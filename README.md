@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi there I'm Kan, nice to meet you.👋:smile:
+=
+Now I'm still learning at codecamp in Thailand and I will become a good full-stack developer in the future!
+
+
+
+- :books: I'm currently learning on react and nodeJS
+- :postbox: Please do not hesitate to contact me via kanm4s@gmail.com
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanm4s&layout=compact)](https://github.com/kanm4s/github-readme-stats)
 
 <!--
 **kanm4s/kanm4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
